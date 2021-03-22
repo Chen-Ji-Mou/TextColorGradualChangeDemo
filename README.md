@@ -1,2 +1,2 @@
 # TextColorGradualChangeDemo
-一个展示仿今日头条的ViewPager滑动Tab标签文字渐变效果的demo
+一个展示仿今日头条的ViewPager滑动时Tab标签文字渐变效果的demo
